@@ -1,10 +1,13 @@
 # hott-examples
-examples in Homotopy type theory
+examples in Homotopy type theory (It contains the whole HoTT library code for convenience  (https://github.com/HoTT/HoTT-Agda))
 
-It contains the whole HoTT library code for convenient testing  (https://github.com/HoTT/HoTT-Agda)
+It contains : 
 
-1. use univalence to port doubleN to doubleN' (two isomorphic function on Nat)
-# how to
+Use univalence to transport functions , doubleN to doubleN' (providing two isomorphic functions on N and N')
+
+Use recursor of N to define function from N to Any type
+
+# how to run
 
 install agda (via haskell cabal)
 
