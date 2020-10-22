@@ -1,7 +1,8 @@
 # hott-examples
-examples in Homotopy type theory (It contains the whole HoTT library code for convenience  (https://github.com/HoTT/HoTT-Agda))
+Some simple examples in Homotopy type theory showing basic usage of the Univalence. (It contains the whole HoTT library code for convenience  [https://github.com/HoTT/HoTT-Agda])
 
-It contains : 
+
+hottTalk.agda : 
 
 Use univalence to transport functions , doubleN to doubleN' (providing two isomorphic functions on N and N')
 
@@ -11,7 +12,7 @@ Use recursor of N to define function from N to Any type
 
 install agda (via haskell cabal)
 
-open HottTalk.agda and load.There should be no errors.
+open HottTalk.agda ,and load it.There should be no errors reported by emacs.
 
 have fun!
 
