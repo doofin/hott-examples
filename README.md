@@ -15,3 +15,23 @@ open HottTalk.agda and load.There should be no errors.
 
 have fun!
 
+# theory
+## run Univalence
+Being merely as a axiom,the Univalence axiom just can't be run .Thus we developed a more complex theory : cubical type theory,to further 'formalize' HoTT and the univalence,so that we can actually run it.
+
+## relation to algebraic topology
+higher inductive types ~ CW complex
+
+# more 
+
+HoTT Summer School 2019
+
+[https://hott.github.io/HoTT-2019/summer-school/]
+
+intro to cubical types:
+
+[https://staff.math.su.se/anders.mortberg/papers/cubicalmethods.pdf]
+
+
+
+
