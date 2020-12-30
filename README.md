@@ -1,6 +1,8 @@
 # hott-examples
+
 Some simple examples in Homotopy type theory showing basic usage of the Univalence. (It contains the whole HoTT library code for convenience  [https://github.com/HoTT/HoTT-Agda])
 
+However,you can't actually run the code,because Univalence is postulated as an axiom,which does not compute.There are several lines of research intented to make it compute,currently the most promising theory is the cubical method,with an implementation named cubical agda.
 
 hottTalk.agda : 
 
