@@ -43,6 +43,10 @@ Below is the link to 2019:
 
 [https://hott.github.io/HoTT-2019/summer-school/]
 
+spring school
+
+[https://epit2020cnrs.inria.fr/]
+
 events:
 
 https://ncatlab.org/homotopytypetheory/show/Events
