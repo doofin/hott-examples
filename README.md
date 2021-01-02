@@ -59,4 +59,4 @@ blog
 
 [http://math.andrej.com/]
 
-
+[https://ice1000.org/2019/08-01-Cutt0.html]
