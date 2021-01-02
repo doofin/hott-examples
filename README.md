@@ -55,6 +55,8 @@ intro to cubical types:
 
 [https://staff.math.su.se/anders.mortberg/papers/cubicalmethods.pdf]
 
+blog
 
+[http://math.andrej.com/]
 
 
