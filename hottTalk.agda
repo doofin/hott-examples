@@ -81,6 +81,10 @@ _+_ : ℕ -> ℕ -> ℕ
 z + m = m
 (s n) + m = s (n + m)
 
+_++_ : ℕ -> ℕ -> ℕ
+z ++ y = {!   !}
+s x ++ y = {!   !}
+
 pn : ℕ -> ℕ -> ℕ -- multiplication of n
 pn = nind (\ x -> x ) (\ (n : ℕ) -> \ op -> \ m -> n + (op m)  )
 --        * zero                      op= + n           (m + n) 
